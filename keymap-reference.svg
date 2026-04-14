@@ -18,7 +18,7 @@
 
   <rect width="1020" height="1680" fill="#fff"/>
   <text x="510" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a2e">Miryoku Dvorak - Corne Wireless ZMK</text>
-  <text x="510" y="50" text-anchor="middle" font-size="11" fill="#888">Home Row Mods: GACS (GUI, Alt, Ctrl, Shift) | Thumb: hold for layer, tap for key</text>
+  <text x="510" y="50" text-anchor="middle" font-size="11" fill="#888">Home Row Mods: CAGS (Ctrl, Alt, GUI, Shift) - Mac-optimized | Thumb: hold for layer, tap for key</text>
 
   <!-- ==================== LAYER 0: BASE ==================== -->
   <g transform="translate(20, 70)">
@@ -52,13 +52,13 @@
     <!-- Left hand home row (mods) -->
     <rect class="key key-mod" x="0" y="76" width="56" height="40"/>
     <text class="key-label" x="28" y="91">A</text>
-    <text class="key-sub" x="28" y="106">GUI</text>
+    <text class="key-sub" x="28" y="106">CTL</text>
     <rect class="key key-mod" x="62" y="76" width="56" height="40"/>
     <text class="key-label" x="90" y="91">O</text>
     <text class="key-sub" x="90" y="106">ALT</text>
     <rect class="key key-mod" x="124" y="76" width="56" height="40"/>
     <text class="key-label" x="152" y="91">E</text>
-    <text class="key-sub" x="152" y="106">CTL</text>
+    <text class="key-sub" x="152" y="106">GUI</text>
     <rect class="key key-mod" x="186" y="76" width="56" height="40"/>
     <text class="key-label" x="214" y="91">U</text>
     <text class="key-sub" x="214" y="106">SFT</text>
@@ -73,13 +73,13 @@
     <text class="key-sub" x="460" y="106">SFT</text>
     <rect class="key key-mod" x="494" y="76" width="56" height="40"/>
     <text class="key-label" x="522" y="91">T</text>
-    <text class="key-sub" x="522" y="106">CTL</text>
+    <text class="key-sub" x="522" y="106">GUI</text>
     <rect class="key key-mod" x="556" y="76" width="56" height="40"/>
     <text class="key-label" x="584" y="91">N</text>
     <text class="key-sub" x="584" y="106">ALT</text>
     <rect class="key key-mod" x="618" y="76" width="56" height="40"/>
     <text class="key-label" x="646" y="91">S</text>
-    <text class="key-sub" x="646" y="106">GUI</text>
+    <text class="key-sub" x="646" y="106">CTL</text>
 
     <!-- Left hand bottom row -->
     <rect class="key key-base" x="0" y="122" width="56" height="40"/>
@@ -161,11 +161,11 @@
 
     <!-- Left home (bare mods) -->
     <rect class="key key-mod" x="0" y="76" width="56" height="40"/>
-    <text class="key-label" x="28" y="96">GUI</text>
+    <text class="key-label" x="28" y="96">CTL</text>
     <rect class="key key-mod" x="62" y="76" width="56" height="40"/>
     <text class="key-label" x="90" y="96">ALT</text>
     <rect class="key key-mod" x="124" y="76" width="56" height="40"/>
-    <text class="key-label" x="152" y="96">CTL</text>
+    <text class="key-label" x="152" y="96">GUI</text>
     <rect class="key key-mod" x="186" y="76" width="56" height="40"/>
     <text class="key-label" x="214" y="96">SFT</text>
     <rect class="key key-empty" x="248" y="76" width="56" height="40"/>
@@ -237,11 +237,11 @@
     <text class="key-label" x="646" y="50">Undo</text>
 
     <rect class="key key-mod" x="0" y="76" width="56" height="40"/>
-    <text class="key-label" x="28" y="96">GUI</text>
+    <text class="key-label" x="28" y="96">CTL</text>
     <rect class="key key-mod" x="62" y="76" width="56" height="40"/>
     <text class="key-label" x="90" y="96">ALT</text>
     <rect class="key key-mod" x="124" y="76" width="56" height="40"/>
-    <text class="key-label" x="152" y="96">CTL</text>
+    <text class="key-label" x="152" y="96">GUI</text>
     <rect class="key key-mod" x="186" y="76" width="56" height="40"/>
     <text class="key-label" x="214" y="96">SFT</text>
     <rect class="key key-empty" x="248" y="76" width="56" height="40"/>
@@ -291,11 +291,11 @@
     <rect class="key key-empty" x="370" y="30" width="56" height="40"/><rect class="key key-empty" x="432" y="30" width="56" height="40"/><rect class="key key-empty" x="494" y="30" width="56" height="40"/><rect class="key key-empty" x="556" y="30" width="56" height="40"/><rect class="key key-empty" x="618" y="30" width="56" height="40"/>
 
     <rect class="key key-mod" x="0" y="76" width="56" height="40"/>
-    <text class="key-label" x="28" y="96">GUI</text>
+    <text class="key-label" x="28" y="96">CTL</text>
     <rect class="key key-mod" x="62" y="76" width="56" height="40"/>
     <text class="key-label" x="90" y="96">ALT</text>
     <rect class="key key-mod" x="124" y="76" width="56" height="40"/>
-    <text class="key-label" x="152" y="96">CTL</text>
+    <text class="key-label" x="152" y="96">GUI</text>
     <rect class="key key-mod" x="186" y="76" width="56" height="40"/>
     <text class="key-label" x="214" y="96">SFT</text>
     <rect class="key key-empty" x="248" y="76" width="56" height="40"/>
@@ -366,11 +366,11 @@
     <rect class="key key-mod" x="432" y="76" width="56" height="40"/>
     <text class="key-label" x="460" y="96">SFT</text>
     <rect class="key key-mod" x="494" y="76" width="56" height="40"/>
-    <text class="key-label" x="522" y="96">CTL</text>
+    <text class="key-label" x="522" y="96">GUI</text>
     <rect class="key key-mod" x="556" y="76" width="56" height="40"/>
     <text class="key-label" x="584" y="96">ALT</text>
     <rect class="key key-mod" x="618" y="76" width="56" height="40"/>
-    <text class="key-label" x="646" y="96">GUI</text>
+    <text class="key-label" x="646" y="96">CTL</text>
 
     <rect class="key key-base" x="0" y="122" width="56" height="40"/>
     <text class="key-label" x="28" y="142">`</text>
@@ -429,11 +429,11 @@
     <rect class="key key-mod" x="432" y="76" width="56" height="40"/>
     <text class="key-label" x="460" y="96">SFT</text>
     <rect class="key key-mod" x="494" y="76" width="56" height="40"/>
-    <text class="key-label" x="522" y="96">CTL</text>
+    <text class="key-label" x="522" y="96">GUI</text>
     <rect class="key key-mod" x="556" y="76" width="56" height="40"/>
     <text class="key-label" x="584" y="96">ALT</text>
     <rect class="key key-mod" x="618" y="76" width="56" height="40"/>
-    <text class="key-label" x="646" y="96">GUI</text>
+    <text class="key-label" x="646" y="96">CTL</text>
 
     <rect class="key key-base" x="0" y="122" width="56" height="40"/>
     <text class="key-label" x="28" y="142">~</text>
@@ -492,11 +492,11 @@
     <rect class="key key-mod" x="432" y="76" width="56" height="40"/>
     <text class="key-label" x="460" y="96">SFT</text>
     <rect class="key key-mod" x="494" y="76" width="56" height="40"/>
-    <text class="key-label" x="522" y="96">CTL</text>
+    <text class="key-label" x="522" y="96">GUI</text>
     <rect class="key key-mod" x="556" y="76" width="56" height="40"/>
     <text class="key-label" x="584" y="96">ALT</text>
     <rect class="key key-mod" x="618" y="76" width="56" height="40"/>
-    <text class="key-label" x="646" y="96">GUI</text>
+    <text class="key-label" x="646" y="96">CTL</text>
 
     <rect class="key key-base" x="0" y="122" width="56" height="40"/>
     <text class="key-label" x="28" y="142">F10</text>
